@@ -75,31 +75,29 @@ I am a passionate about **Data Engineering** and **Full-Stack Development**, cur
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Real-Time Data Cleaning Pipeline for Medical and Healthcare Data</h3>
+      <h3 align="center">Real-Time Data Cleaning Pipeline</h3>
       <div align="center">
-        <a href="https://github.com/KrishtalTiwari/Real-Time-Data-Cleaning-Pipeline-for-Medical-and-Healthcare-Data" target="_blank">
-          <img src="https://via.placeholder.com/500x300.png?text=Real-Time+Data+Cleaning+Pipeline" width="500" style="object-fit: cover;" alt="Real-Time Data Cleaning Pipeline">
+        <a href="https://github.com/Krishtalbot/Real-Time-Data-Cleaning-Pipeline-for-Medical-and-Healthcare-Data" target="_blank">
         </a>
         <p>
-          <a href="https://github.com/KrishtalTiwari/Real-Time-Data-Cleaning-Pipeline-for-Medical-and-Healthcare-Data" target="_blank">
+          <a href="https://github.com/Krishtalbot/Real-Time-Data-Cleaning-Pipeline-for-Medical-and-Healthcare-Data" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style-for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
         </p>
-        <p><strong>Real-Time Data Cleaning Pipeline</strong> is a scalable system for processing and cleaning healthcare data from EHRs and IoT devices. Built with <strong>PySpark</strong>, <strong>Hadoop</strong>, and <strong>Trino</strong>, it uses automated validation and anomaly detection to ensure data quality, reducing errors by 30% and enabling real-time analytics for clinical insights.</p>
+        <p><strong>Real-Time Data Cleaning Pipeline</strong> processes healthcare data using <strong>Apache Spark</strong>, <strong>Kafka</strong>, and <strong>Spark NLP</strong>. It ingests streaming data, cleans HTML content, performs Named Entity Recognition (NER), and redacts PII, storing results in <strong>Parquet</strong> for scalable analytics.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Songkhare: Healthcare Analytics Platform</h3>
+      <h3 align="center">Songkhare: Sentiment-Based Song Recommendation</h3>
       <div align="center">
-        <a href="https://github.com/KrishtalTiwari/Songkhare" target="_blank">
-          <img src="https://via.placeholder.com/500x300.png?text=Songkhare+Analytics" width="500" style="object-fit: cover;" alt="Songkhare">
+        <a href="https://github.com/me-mynus/Songkhare" target="_blank">
         </a>
         <p>
-          <a href="https://github.com/KrishtalTiwari/Songkhare" target="_blank">
+          <a href="https://github.com/me-mynus/Songkhare" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style-for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
         </p>
-        <p><strong>Songkhare</strong> is a healthcare analytics platform for visualizing patient data trends, built with <strong>Django</strong>, <strong>MySQL</strong>, and <strong>Apache Superset</strong>. It integrates multi-source datasets, improving data accessibility by 25% and supporting data-driven decision-making in clinical settings.</p>
+        <p><strong>Songkhare</strong> is a sentiment-analysis-based song recommendation system built with <strong>TensorFlow</strong>, <strong>Flask</strong>, and <strong>Pandas</strong>. It uses an <strong>LSTM</strong> model to predict user emotions from text and integrates with the <strong>Spotify API</strong> to recommend songs, achieving improved accuracy through model benchmarking.</p>
       </div>
     </td>
   </tr>
